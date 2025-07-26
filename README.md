@@ -1,6 +1,5 @@
 # roboEmDart
 
-![imagem JavaScript](https://dart.dev/assets/shared/dart-logo-for-shares.png?2)
 
 
 <h1>Estudo de Dart</h1>
